@@ -22,7 +22,8 @@ Installation:
 
 To run the game locally, follow these steps:
 
-1 - Clone the repository: git clone https://github.com/yourusername/pig-game-v2.git .
+1 - Clone the repository: git clone https://github.com/mohamedsa3eed013
+/pig-game.git .
 2 - Navigate to the project directory: cd pig-game-v2 .
 3 - Open index.html in your web browser.
 
